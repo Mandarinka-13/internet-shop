@@ -10,9 +10,10 @@ header{
   font-family: "Open Sans", sans-serif;
   background-repeat: no-repeat;
   height: 130px;
-  width: 1300px;
+  width: 100%;
   margin-top: 1px;
   margin-bottom: 1px;
+  text-align: center;
   background-size: cover;
   background-position: center;
 
@@ -150,7 +151,7 @@ main{
   color: black;
   text-align: center;  
   padding-bottom: 10px;
-  font-size: 40px;
+  font-size: 60px;
 }
 
 
