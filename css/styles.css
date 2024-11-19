@@ -361,22 +361,21 @@ main{
 
 .footer {
   background-color:#F7F2EA;
+  max-width: 100%;
+  padding: 5%;
 }
-
 
 .footer-conteiner {
-  list-style-type: none;
   display: flex;
-  justify-content: center;
-}
+  gap: 50px;
+  padding-bottom: 140px;
 
+}
 
 .name {
   font-family: "Cormorant", serif;
-  justify-items: center;
   font-size: 24px;
-  width: 1400px;
-  height: 600px;
+  width: 1000px;
   padding-top: 100px;
 }
 
@@ -387,9 +386,34 @@ main{
   list-style: none;
   justify-content: left;
   padding-top: 20px;
+  display: flex;
+  padding-bottom: 20px;
 }
 
-.uou {
-  text-align: right;
+.footer-lii {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  text-align: left; 
+  list-style: none;
+  justify-content: left;
   padding-top: 20px;
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.img {
+display: flex;
+font-size: 13px;
+padding-bottom: 40px
+}
+
+.ooo {
+  padding-left: 40px;
+  margin-top: 20px;
+  
+}
+
+.uuu {
+  padding-top: 100px;
+padding-left: 40px;
 }
