@@ -1111,6 +1111,7 @@ input {
 }
 .want {
   justify-items: center;
+  margin: 0;
   }
 .wantMore {
   justify-items: center;
@@ -1125,7 +1126,7 @@ input {
 .Jain {
   justify-content: center;
   text-align: center;
-  width: 280px;
+  width: 340px;
   padding: 0 10px 30px 0px;
   margin: 0;
   float: none;
@@ -1136,10 +1137,9 @@ input {
     width: 100px;
     }
 .emaill {
-  padding-left: 0px;
-  margin: 0% 0% 0% 0px;
-  padding-right: 0px;
-  width: 280px;
+  margin: 0;
+  padding: 0px;
+  width: 340px;
   font-size: 13px;
   }
 .take {
@@ -1151,7 +1151,9 @@ input {
   width: 400px;
   }
   .we_take {
-    width: 280px;
+    width: 340px;
+    margin: 0;
+    padding: 0;
   }
   }
 
@@ -1365,7 +1367,7 @@ font-size: 13px;
   padding-top: 20px;
 }
 
-@media (min-width: 1441px) {
+@media (min-width: 1301px) {
   .footer-conteiner {
     gap: 150px;
   }
@@ -1379,7 +1381,7 @@ font-size: 13px;
   }
 }
 
-@media (min-width: 1000px) and (max-width: 1440px) {
+@media (min-width: 1000px) and (max-width: 1300px) {
   .footer-conteiner {
     gap: 0px;
   }
