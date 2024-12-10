@@ -198,8 +198,6 @@ header{
   }
 }
 
-
-
 @media (min-width: 480px) and (max-width: 600px) {
   .menu-burger {
     display: block;
@@ -269,18 +267,6 @@ header{
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 main{
   font-family: "Cormorant", serif;
 }
@@ -338,7 +324,6 @@ main{
 
   }
 }
-
 
 @media (min-width: 1001px) and (max-width: 1599px) {
   .drink {
@@ -430,14 +415,6 @@ main{
 
 }
 
-
-
-
-
-
-
-
-
 .explore {
   text-align: center;
   padding-bottom: 60px;
@@ -520,9 +497,6 @@ main{
     height: 220px;
   }
 }
-
-
-
 
 .allText-conteiner {
   background-color:#F7F2EA;
@@ -674,10 +648,6 @@ main{
     display: none;
   }
 }
-
-
-
-
 
 .tea {
   background-position: center;
@@ -892,7 +862,6 @@ main{
   }
 }
 
-
 .viewAll {
   font-size: 24px;
   max-width: 100px;
@@ -901,8 +870,6 @@ main{
   margin: auto;
   border: solid #000;
 }
-
-
 
 .section_want {
   margin: 0;
@@ -1188,12 +1155,6 @@ input {
   }
   }
 
-
-
-  
-
-
-
 .we {
   margin-left: 5%;
   margin-right: 5%;
@@ -1454,7 +1415,6 @@ font-size: 13px;
   }
 
 }
-
 
 @media (min-width: 480px) and (max-width: 735px) {
   .name {
